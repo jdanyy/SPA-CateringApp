@@ -1,0 +1,121 @@
+{
+    "commonDishFormLabels": {
+      "name": "Gerichtsname",
+      "backButton": "Zurück",
+      "dishNameRequired": "Gerichtsname ist erforderlich"
+    },
+    "createDishFormLabels": {
+      "createFromSubmitButton": "Gericht erstellen",
+      "formTitle": "Neues Gericht erstellen"
+    },
+    "updateDishFormLabels": {
+      "formTitle": "Gericht aktualisieren",
+      "submitButton": "Aktualisieren"
+    },
+    "menuFormLabels": {
+      "dishSelect": "Gerichte auswählen",
+      "title": "Menütitel",
+      "price": "Preis",
+      "rating": "Bewertung",
+      "calories": "Kalorien",
+      "titleRequired": "Menütitel ist erforderlich",
+      "priceRequired": "Preis ist erforderlich",
+      "invalidFloat": "Ungültige Gleitkommazahl",
+      "priceGraterThen": "Der Preis muss größer oder gleich 1 sein",
+      "ratingRequired": "Bewertung ist erforderlich",
+      "caloriesRequired": "Kalorien sind erforderlich",
+      "createFormButton": "Menü erstellen"
+    },
+    "commonAuthFormLabels": {
+      "email": "E-Mail",
+      "password": "Passwort"
+    },
+    "loginFormLabels": {
+      "formTitle": "Anmelden",
+      "successPopUpMessage": "Anmeldung erfolgreich",
+      "buttonTitle": "Anmelden",
+      "email": "E-Mail",
+      "password": "Passwort"
+    },
+    "registrationFromLables": {
+      "formTitle": "Registrieren",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "name": "Name",
+      "passwordConfirmation": "Passwort bestätigen",
+      "buttonTitle": "Registrieren"
+    },
+    "formValidationLabels": {
+      "emailRequired": "E-Mail ist erforderlich.",
+      "invalidEmail": "Ungültige E-Mail.",
+      "nameRequired": "Name ist erforderlich.",
+      "passwordRequired": "Passwort ist erforderlich.",
+      "passwordConfirmationRequired": "Passwortbestätigung ist erforderlich.",
+      "passwordLength": "Passwort muss mindestens 5 Zeichen lang sein.",
+      "passwordStrength": "Passwort muss mindestens einen Großbuchstaben und eine Ziffer enthalten.",
+      "passwordDontMatch": "Passwörter stimmen nicht überein."
+    },
+    "menusPage": {
+      "menuPageTitle": "Menüseite"
+    },
+    "dishPage": {
+      "dishPageTitle": "Gerichtsseite",
+      "updateButtonLabel": "Aktualisieren",
+      "deleteDialogQuestion": "Sind Sie sicher, dass Sie dieses Gericht löschen möchten?"
+    },
+    "createMenuFormConstants": {
+      "dishLoadingMessage": "Abrufen der verfügbaren Gerichte...",
+      "dishErrorMessage": "Abrufen der Gerichte vom Server nicht möglich",
+      "formLabel": "Menü erstellen",
+      "successMessage": "Erstellung erfolgreich"
+    },
+    "updateMenuFormConstants": {
+      "backButtonLabel": "Zurück",
+      "formLabel": "Menü aktualisieren",
+      "successMessage": "Aktualisierung erfolgreich"
+    },
+    "menuItemMessages": {
+      "menuDetailsError": "Dieses Menü hat keine verfügbaren Daten",
+      "specificPageButton": "Details anzeigen",
+      "updateButton": "Menü aktualisieren",
+      "deleteButton": "Menü löschen",
+      "deleteSuccessMessage": "Menü gelöscht",
+      "deleteDialogQuestion": "Sind Sie sicher, dass Sie dieses Menü löschen möchten?",
+      "deleteDialogTitle": "Löschen bestätigen",
+      "dialogAccept": "Bestätigen",
+      "dialogCancel": "Abbrechen",
+      "priceLabel": "Preis",
+      "ratingLabel": "Bewertung",
+      "caloriesLabel": "Kalorien",
+      "dishsLabel": "Gerichte: "
+    },
+    "commonMessages": {
+      "loading": "Serverdaten werden geladen...",
+      "apiError": "Server ist nicht verfügbar.",
+      "nextButton": "Weiter",
+      "prevButton": "Zurück"
+    },
+    "languageSwitcher": {
+      "englishButton": "eng",
+      "deutchButton": "du",
+      "hungarianButton": "hu"
+    },
+    "navBar": {
+      "title": "Mein Restaurant",
+      "home": "Startseite",
+      "createMenu": "Menü erstellen",
+      "dishes": "Gerichte",
+      "createDish": "Gericht erstellen",
+      "logout": "Abmelden",
+      "login": "Anmelden",
+      "registration": "Registrierung"
+    },
+    "apiError": {
+      "unexpected": "Unerwarteter Serverfehler.",
+      "invalidCredentials": "Ungültige Anmeldeinformationen.",
+      "emailExists": "Diese E-Mail-Adresse ist bereits registriert.",
+      "entityNotFound": "Die angeforderte Entität wurde nicht gefunden."
+    }
+    
+  }
+  

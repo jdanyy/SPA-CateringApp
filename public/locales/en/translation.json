@@ -1,0 +1,119 @@
+{
+    "commonDishFormLabels": {
+      "name": "Dish name",
+      "backButton": "Back",
+      "dishNameRequired": "Dish name is required"
+    },
+    "createDishFormLabels": {
+      "createFromSubmitButton": "Create Dish",
+      "formTitle": "Create New Dish"
+    },
+    "updateDishFormLabels": {
+      "formTitle": "Update Dish",
+      "submitButton": "Update"
+    },
+    "menuFormLabels": {
+      "dishSelect": "Select dishes",
+      "title": "Menu Title",
+      "price": "Price",
+      "rating": "Rating",
+      "calories": "Calories",
+      "titleRequired": "Menu title is required",
+      "priceRequired": "Price is required",
+      "invalidFloat": "Invalid float number",
+      "priceGraterThen": "Price must be grater than or equal to 1",
+      "ratingRequired": "Rating is required",
+      "caloriesRequired": "Calories is required",
+      "createFormButton": "Create Menu"
+    },
+    "commonAuthFormLabels": {
+      "email": "Email",
+      "password": "Password"
+    },
+    "loginFormLabels": {
+      "formTitle": "Login",
+      "successPopUpMessage": "Login successful",
+      "buttonTitle": "Login",
+      "email": "Email",
+      "password": "Password"
+    },
+    "registrationFromLables": {
+      "formTitle": "Register",
+      "email": "Email",
+      "password": "Password",
+      "name": "Name",
+      "passwordConfirmation": "Confirm password",
+      "buttonTitle": "Register"
+    },
+    "formValidationLabels": {
+      "emailRequired": "Email is required.",
+      "invalidEmail": "Invalid email.",
+      "nameRequired": "Name is required.",
+      "passwordRequired": "Password is required.",
+      "passwordConfirmationRequired": "Password confirmation is required.",
+      "passwordLength": "Password must be at least 5 characters long.",
+      "passwordStrength": "Password must contain at least one uppercase letter and a digit.",
+      "passwordDontMatch": "Passwords do not match."
+    },
+    "menusPage": {
+        "menuPageTitle": "Menus Page"
+    },
+    "dishPage": {
+        "dishPageTitle": "Dishes Page",
+        "updateButtonLabel": "Update",
+        "deleteDialogQuestion": "Are you sure that you want to delete this dish?"
+    },
+    "createMenuFormConstants": {
+        "dishLoadingMessage": "Getting the available dishes...",
+        "dishErrorMessage": "Unable to get the dishes from the server",
+        "formLabel": "Create Menu",
+        "successMessage": "Creation success"
+    },
+    "updateMenuFormConstants": {
+        "backButtonLabel": "Back",
+        "formLabel": "Update Menu",
+        "successMessage": "Update success"
+    },
+    "menuItemMessages": {
+        "menuDetailsError": "This menu has no available data",
+        "specificPageButton": "See details",
+        "updateButton": "Update Menu",
+        "deleteButton": "Delete Menu",
+        "deleteSuccessMessage": "Menu deleted",
+        "deleteDialogQuestion": "Are you sure that you want to delete this menu?",
+        "deleteDialogTitle": "Confirm Delete",
+        "dialogAccept": "Confirm",
+        "dialogCancel": "Cancel",
+        "priceLabel": "Price",
+        "ratingLabel": "Rating",
+        "caloriesLabel": "Calories",
+        "dishsLabel": "Dishes: "
+    },
+    "commonMessages": {
+        "loading": "Loading server data...",
+        "apiError": "Server is unavailable.",
+        "nextButton": "Next",
+        "prevButton": "Prev"
+    },
+    "languageSwitcher": {
+        "englishButton": "eng",
+        "deutchButton": "du",
+        "hungarianButton": "hu"
+    },
+    "navBar": {
+        "title": "My Restaurant",
+        "home": "Home",
+        "createMenu": "Create Menu",
+        "dishes": "Dishes",
+        "createDish": "Create Dish",
+        "logout": "Logout",
+        "login": "Login",
+        "registration": "Registration"
+    },
+    "apiError": {
+      "unexpected": "Unexpected server error.",
+      "invalidCredentials": "Invalid credentials.",
+      "emailExists": "This email address is already registered.",
+      "entityNotFound": "The requested entity is not found."
+    }
+}

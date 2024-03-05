@@ -1,0 +1,120 @@
+{
+    "commonDishFormLabels": {
+        "name": "Étel neve",
+        "backButton": "Vissza",
+        "dishNameRequired": "A név megadása kötelező"
+    },
+    "createDishFormLabels": {
+        "createFromSubmitButton": "Étel létrehozása",
+        "formTitle": "Új étel létrehozása"
+    },
+    "updateDishFormLabels": {
+        "formTitle": "Étel frissítése",
+        "submitButton": "Frissítés"
+    },
+    "menuFormLabels": {
+        "dishSelect": "Ételek kiválasztása",
+        "title": "Menü címe",
+        "price": "Ár",
+        "rating": "Értékelés",
+        "calories": "Kalóriák",
+        "titleRequired": "A menü címe kötelező",
+        "priceRequired": "Az ár megadása kötelező",
+        "invalidFloat": "Érvénytelen lebegőpontos szám",
+        "priceGraterThen": "Az ár nagyobb vagy egyenlő legyen, mint 1",
+        "ratingRequired": "Az értékelés megadása kötelező",
+        "caloriesRequired": "A kalória megadása kötelező",
+        "createFormButton": "Menü létrehozása"
+      },      
+    "commonAuthFormLabels": {
+        "email": "E-mail",
+        "password": "Jelszó"
+    },
+    "loginFormLabels": {
+        "formTitle": "Bejelentkezés",
+        "successPopUpMessage": "Sikeres bejelentkezés",
+        "buttonTitle": "Bejelentkezés",
+        "email": "E-mail",
+        "password": "Jelszó"
+    },
+    "registrationFromLables": {
+        "formTitle": "Regisztráció",
+        "email": "E-mail",
+        "password": "Jelszó",
+        "name": "Név",
+        "passwordConfirmation": "Jelszó megerősítése",
+        "buttonTitle": "Regisztráció"
+    },
+    "formValidationLabels": {
+        "emailRequired": "Az e-mail mező kitöltése kötelező.",
+        "invalidEmail": "Érvénytelen e-mail cím.",
+        "nameRequired": "A név megadása kötelező.",
+        "passwordRequired": "A jelszó megadása kötelező.",
+        "passwordConfirmationRequired": "A jelszó megerősítése kötelező.",
+        "passwordLength": "A jelszónak legalább 5 karakter hosszúnak kell lennie.",
+        "passwordStrength": "A jelszónak tartalmaznia kell legalább egy nagybetűt és egy számot.",
+        "passwordDontMatch": "A jelszavak nem egyeznek meg."
+    },
+    "menusPage": {
+        "menuPageTitle": "Menük oldal"
+    },
+    "dishPage": {
+        "dishPageTitle": "Ételek oldal",
+        "updateButtonLabel": "Frissítés",
+        "deleteDialogQuestion": "Biztosan törölni szeretné ezt az ételt?"
+    },
+    "createMenuFormConstants": {
+        "dishLoadingMessage": "Az elérhető ételek lekérése...",
+        "dishErrorMessage": "Nem sikerült lekérni az ételeket a szerverről",
+        "formLabel": "Menü létrehozása",
+        "successMessage": "Létrehozás sikeres"
+    },
+    "updateMenuFormConstants": {
+        "backButtonLabel": "Vissza",
+        "formLabel": "Menü frissítése",
+        "successMessage": "Frissítés sikeres"
+    },
+    "menuItemMessages": {
+        "menuDetailsError": "Ez a menü nem tartalmaz elérhető adatokat",
+        "specificPageButton": "Részletek megtekintése",
+        "updateButton": "Menü frissítése",
+        "deleteButton": "Menü törlése",
+        "deleteSuccessMessage": "Menü törölve",
+        "deleteDialogQuestion": "Biztosan törölni szeretné ezt a menüt?",
+        "deleteDialogTitle": "Törlés megerősítése",
+        "dialogAccept": "Megerősítés",
+        "dialogCancel": "Mégse",
+        "priceLabel": "Ár",
+        "ratingLabel": "Értékelés",
+        "caloriesLabel": "Kalóriák",
+        "dishsLabel": "Ételek: "
+    },
+    "commonMessages": {
+        "loading": "Szerver adatok betöltése...",
+        "apiError": "A szerver nem elérhető.",
+        "nextButton": "Következő",
+        "prevButton": "Előző"
+    },
+    "languageSwitcher": {
+        "englishButton": "en",
+        "deutchButton": "du",
+        "hungarianButton": "hu"
+    },
+      "navBar": {
+        "title": "Étterem",
+        "home": "Főoldal",
+        "createMenu": "Menü létrehozása",
+        "dishes": "Ételek",
+        "createDish": "Étel létrehozása",
+        "logout": "Kijelentkezés",
+        "login": "Bejelentkezés",
+        "registration": "Regisztráció"
+      },
+      "apiError": {
+        "unexpected": "Váratlan szerverhiba.",
+        "invalidCredentials": "Érvénytelen hitelesítő adatok.",
+        "emailExists": "Ez az e-mail cím már regisztrálva van.",
+        "entityNotFound": "A kért entitás nem található."
+      }
+      
+}
