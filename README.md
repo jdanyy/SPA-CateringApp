@@ -2,7 +2,7 @@
 
 - Welcome to Catering App! This is a Single Page webapplication written in **React**, using **Typescript**, developed as part of my 5'th semester SPA course at Babes Bolyai University. It serves as a frontend for a Restaurant, but is tightly integrated with Java Spring backend server. [See Github repo](https://github.com/jdanyy/cateringApp-javaSpring-backend)
 
-- [See help section for testing with backend](<# Testing with backend>)
+- [See help section for testing with backend](<https://github.com/jdanyy/SPA-CateringApp/edit/main/README.md#Testing with backend>)
 
 ## Features
 
